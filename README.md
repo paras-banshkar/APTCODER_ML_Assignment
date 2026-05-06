@@ -1,5 +1,5 @@
 # APTCODER — ML Assignment
-### Junior Software Engineer (Python + AIML)
+### (Python + AIML)
 
 ---
 
@@ -144,9 +144,8 @@ pip install numpy pandas scikit-learn matplotlib scipy jupyter
 
 ## About Me
 
-Applied for: **Junior Software Engineer (Python + AIML)**  
 Institution: **IIT Bombay**  
-Email: 23b2494@iitb.ac.in
+Email: banshkar3000@gmail.com
 
 ---
 
